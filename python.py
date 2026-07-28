@@ -14,4 +14,6 @@ def calculate():
                 print("Result:", n1 / n2 if n2 != 0 else "Error: Div by 0")
         except ValueError: print("Invalid input.")
 
+
+
 # calculate() # Uncomment to run
